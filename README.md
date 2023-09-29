@@ -1,6 +1,6 @@
-# Quilt Template Mod
+# Implosion
 
-The official Quilt template mod. You can use it as a template for your own mods!
+
 
 ## Usage
 
